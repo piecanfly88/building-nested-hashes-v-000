@@ -6,3 +6,7 @@ def first_challenge
 end
 
 puts first_challenge
+epic_tragedy = {
+  :montague => {},
+  :capulet => {}
+}
