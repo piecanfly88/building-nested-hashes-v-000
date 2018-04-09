@@ -5,3 +5,4 @@ def first_challenge
    puts epic_tragedy
 end
 
+puts first_challenge
